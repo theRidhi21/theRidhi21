@@ -1,4 +1,4 @@
-<h2 align="center">Hello Everyone! I'm Nidhishaa </h2>
+<h2 align="center">Hello Everyone! I'm Ridhishaa </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
 </p>
@@ -42,26 +42,5 @@
 
 
 
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nidhicode7&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-## 🚀 Featured Projects 
-
-### 1️⃣ [🔗 Grosight - Grocery Review Sentiment Analysis](https://github.com/nidhicode7/grosight)  
-**Tech Stack:** React, MongoDB, Node.js, Python, TensorFlow  
-🔹 An AI-powered web app that analyzes customer reviews and provides sentiment insights.  
-
-### 2️⃣ [🔗 SafeGuardian-MedGuide - MedGuide](https://github.com/nidhicode7/MedGuide)  
-**Tech Stack:** OpenCV, Deep Learning, Flask, PostgreSQL  
-🔹 In today's fast-paced world, health concerns can arise unexpectedly, leaving us in need of quick and accurate medical guidance. Our system aims to address this by leveraging advanced technology to predict potential diseases based on symptoms and recommend suitable doctors for consultation. 
-
-### 3️⃣ [🔗 Anaemia Prediction](https://github.com/nidhicode7/Anaemia-Prediction)  
-**Tech Stack:** Python, TensorFlow, Flask, FastAPI 
-🔹 A machine learning based system to detect the presence of Anaemia in a person with maxiimum accuracy.
-
-## 🚀 Here is a link to know more about me 
-[🔗 CONTACT](https://myportfolio-mtjf.onrender.com) 
