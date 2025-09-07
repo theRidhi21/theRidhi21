@@ -22,61 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theRidhi21&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theRidhi21&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
----
-
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/ridhishaa-ardham-2a322b37b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ridhiardham@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🏆 Visitors Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theRidhi21&style=flat-square&color=blue" alt=""/>
-</p>
-
-
-
-<h2 align="center">Hello Everyone! I'm Ridhi </h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&lines=Software+Developer+|+WebDev+AI+ML;Passionate+about+Tech;Open+Source+Contributor">
-</p>
-
----
-
-## ✨ About Me  
-
-- 🎓 Final year student in Computer Science, passionate about **AI, ML, and Web Development**  
-- 🚀 Currently working on **AI-driven real-world projects** and contributing to **Open Source**  
-- 🌱 Always eager to learn new technologies and enhance my problem-solving skills  
-- 🎯 Goal: To build impactful solutions with AI and contribute to the developer community  
-
----
-
-## 🛠 Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-
 ---
 
 ## 🔥 GitHub Stats  
@@ -104,21 +49,32 @@
 
 ---
 
-## 📚 Currently Learning  
-
-- 🤖 Advanced Deep Learning & Generative AI  
-- 🌐 Full-Stack Development with React + Node.js  
-- 🐍 Python for Data Science & ML  
-- ☁️ Cloud Computing (AWS, GCP)  
-
----
-
-## 📬 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theRidhi21&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theRidhi21&theme=tokyonight" alt="streak" height="160"/>
+</p>
 
 ---
 
-## 🏆 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=theRidhi21&color=blue)  
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/ridhishaa-ardham-2a322b37b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ridhiardham@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🏆 Visitors Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theRidhi21&style=flat-square&color=blue" alt=""/>
+</p>
+
+
+
+
+
