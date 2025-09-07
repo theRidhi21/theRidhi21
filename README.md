@@ -49,13 +49,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theRidhi21&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theRidhi21&theme=tokyonight" alt="streak" height="160"/>
-</p>
-
----
 
 ### 🌐 Connect with Me  
 <p align="center">
