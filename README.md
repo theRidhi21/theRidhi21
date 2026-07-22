@@ -66,7 +66,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=theRidhi21&style=flat-square&color=blue" alt=""/>
 </p>
-
-
-
-
