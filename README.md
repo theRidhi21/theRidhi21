@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ridhishaa Ardham</h1>
 <h3 align="center">✨ Curious Learner | Tech Explorer | Future Innovator ✨</h3>
-
+ 
 ---
 
 ### 🚀 About Me  
