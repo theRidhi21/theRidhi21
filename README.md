@@ -39,7 +39,7 @@
 
 ## 🏆 GitHub Achievements  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=theRidhi21&theme=onedark)](https://github.com/theRidhi21/github-profile-trophy)
 
 ## 📈 GitHub Streak  
 
