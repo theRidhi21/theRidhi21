@@ -37,13 +37,13 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theRidhi21&theme=onedark)](https://github.com/theRidhi21/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=theRidhi21&theme=flat&no-frame=true&margin-w=10)
 
-## 📈 GitHub Streak  
+## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=theRidhi21&theme=algolia)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=theRidhi21&theme=default)
 
 ---
 
