@@ -24,10 +24,12 @@
 
 ---
 
-## 🔥 GitHub Stats  
+### 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theRidhi21&show_icons=true&theme=algolia)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theRidhi21&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theRidhi21&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRidhi21&layout=compact&theme=radical" />
+</p>
 
 ---
 
@@ -39,13 +41,17 @@
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=theRidhi21&theme=flat&no-frame=true&margin-w=10)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theRidhi21&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=RidhishaaArdham&theme=default)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=theRidhi21&theme=default" />
+</p>
 
 
 ### 🌐 Connect with Me  
