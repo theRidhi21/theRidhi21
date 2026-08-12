@@ -43,7 +43,7 @@
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=theRidhi21&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ridhishaa Ardham&theme=default)
 
 ---
 
